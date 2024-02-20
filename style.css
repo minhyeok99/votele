@@ -1,0 +1,13 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>투표 사이트</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>가장 좋아하는 힙합 음악은?</h1>
+    <ul id="options"></ul>
+    <button id="voteBtn">투표하기</button>
+    
+    <script src="script.js"></script>
+</body>
